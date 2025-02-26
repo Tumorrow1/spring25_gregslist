@@ -41,3 +41,7 @@ input {
 .check-input {
   min-width: unset;
 }
+
+.house-img {
+  width: 40%;
+}
